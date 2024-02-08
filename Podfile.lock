@@ -1,0 +1,16 @@
+PODS:
+  - KMPShared (1.0)
+
+DEPENDENCIES:
+  - KMPShared (from `../kmp-app-shared`)
+
+EXTERNAL SOURCES:
+  KMPShared:
+    :path: "../kmp-app-shared"
+
+SPEC CHECKSUMS:
+  KMPShared: 03cc27a286336c130440f141f84f6b5329372ce5
+
+PODFILE CHECKSUM: f49e51ae1f477d1c1cc7f816cec753340337b425
+
+COCOAPODS: 1.15.0
